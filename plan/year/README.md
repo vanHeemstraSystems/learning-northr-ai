@@ -30,3 +30,9 @@ WHO I'M BECOMING
 THIS MONTH'S FOCUS
 
 Validated personal financial model reflecting 'pleasant life' needs.
+
+My original words:
+
+- One year from now, my days look like this: I focus on happiness more than on employability, as that is secured.
+- I've stopped: I won't need to apply for jobs, as my work is secured.
+- I know things are working when: I have accumulated enough net worth to live a pleasant life.

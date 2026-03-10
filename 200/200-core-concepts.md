@@ -31,7 +31,7 @@ Your **direction** is the single, stable north star that guides all AI planning 
 - **Time-bounded** — with a target date or horizon
 - **Singular** — one primary direction at a time (multiple are supported but can dilute focus)
 
-*Good:* "Deliver the ASML Virtual Fab security bid by July 15"
+*Good:* "Deliver the security bid by July 15"
 *Weak:* "Work on the bid stuff"
 
 ---
