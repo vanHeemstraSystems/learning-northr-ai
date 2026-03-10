@@ -6,4 +6,4 @@ Setup [Northr.ai](https://northr.ai) with [Google Calendar](https://calendar.goo
 
 Calendar(s):
 
-- ...
+- Northr
