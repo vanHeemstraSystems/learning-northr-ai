@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//vanHeemstraSystems//learning-northr-ai//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20260310-document-northrai-github@learning-northr-ai
+DTSTAMP:20260310T000000Z
+DTSTART;TZID=Europe/Amsterdam:20260310T090000
+DTEND;TZID=Europe/Amsterdam:20260310T103000
+SUMMARY:Document northr.ai in GitHub (learning-northr-ai)
+DESCRIPTION:Document northr.ai in GitHub at https://github.com/vanHeemstraSystems/learning-northr-ai\nSee https://northr.ai/week\nCalendar: Northr
+URL:https://github.com/vanHeemstraSystems/learning-northr-ai
+END:VEVENT
+END:VCALENDAR

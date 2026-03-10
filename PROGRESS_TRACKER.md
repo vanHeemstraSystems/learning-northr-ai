@@ -91,7 +91,8 @@ Check these off as you read + apply each phase.
   - [ ] Completed weekly retro/check-in
   - [ ] Identified recurring blocker pattern and fixed it
 - [ ] **Integrations**
-  - [ ] Connected primary calendar
+  - [x] Connected primary calendar
+  - [x] Connected email (Gmail)
   - [ ] Connected a task system (if used)
   - [ ] Verified time blocks reflect real constraints
 - [ ] **Templates / personal planning artifacts**
