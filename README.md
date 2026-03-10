@@ -136,7 +136,7 @@ Follow the numbered directories in sequence for a guided learning experience, or
 |---|---|
 | [learning-crossplane-inner-workings](https://github.com/vanHeemstraSystems/learning-crossplane-inner-workings) | Crossplane internals |
 | [learning-audit-automation](https://github.com/vanHeemstraSystems/learning-audit-automation) | CycloneDX-centred audit automation |
-| [learning-envoyproxy](https://github.com/vanHeemstraSystems/learning-envoyproxy) | Envoy Proxy deep dive |
+| [learning-envoy-proxy](https://github.com/vanHeemstraSystems/learning-envoy-proxy) | Envoy Proxy deep dive |
 
 ---
 
