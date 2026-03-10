@@ -18,7 +18,7 @@ A direction is the input that drives the entire northr.ai system. The quality of
 | Weak Direction | Strong Direction |
 |---|---|
 | "Study Azure" | "Pass the AZ-500 exam by March 31" |
-| "Work on the bid" | "Submit ASML Virtual Fab security bid by July 15" |
+| "Work on the bid" | "Submit security bid by July 15" |
 | "Get healthier" | "Run 3x per week for 8 consecutive weeks" |
 | "Learn Crossplane" | "Complete learning-crossplane-inner-workings repo by end of month" |
 
